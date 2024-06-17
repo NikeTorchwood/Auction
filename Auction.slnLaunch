@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "dva",
+    "Projects": [
+      {
+        "Name": "UsersService\\UsersService.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Name": "Auction\\Auction.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      }
+    ]
+  }
+]
